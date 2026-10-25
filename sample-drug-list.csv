@@ -1,0 +1,21 @@
+drug,tier,price,excluded,note
+Lisinopril,generic,12,,
+Metformin,generic,14,,
+Atorvastatin,generic,16,,
+Levothyroxine,generic,18,,
+Amlodipine,generic,12,,
+Sertraline,generic,15,,
+Albuterol inhaler,preferred,70,,
+Omeprazole,generic,14,,
+Montelukast,generic,17,,
+Losartan,generic,13,,
+Jardiance,preferred,640,,
+Eliquis,preferred,590,,
+Humira,specialty,6900,,May need prior approval
+Ozempic (diabetes),preferred,1000,,Covered for diabetes only
+Ozempic or Wegovy (weight loss),preferred,1000,yes,Weight-loss use is not covered
+Zepbound (weight loss),preferred,1100,yes,Weight-loss use is not covered
+Mounjaro (diabetes),preferred,1050,,Covered for diabetes only
+Insulin glargine,preferred,320,,
+Symbicort,nonpreferred,380,,
+Xarelto,nonpreferred,560,,
